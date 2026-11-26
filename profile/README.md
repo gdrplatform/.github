@@ -2,7 +2,7 @@
 
 Here, we propose a suite of computational tools that enable the processing, archiving, and visualization of drug response data from any experiment, regardless of size or experimental design, thus ensuring reproducibility and implementation of the Findable, Accessible, Interoperable, and Reusable (F.A.I.R.) principles, with the goal of making this accessible to the public community.
 
-For now we share a subset of the gDR suite components for pre-processing and processing the data.
+For now we share a subset of the gDR suite components for pre-processing, processing and visualizing the data.
 
 Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
@@ -16,3 +16,4 @@ Right now, open communities are building amazing software together, and there ar
 | [_gDRcore_](https://github.com/gdrplatform/gDRcore) | [![](https://bioconductor.org/shields/build/devel/bioc/gDRcore.svg)](https://bioconductor.org/checkResults/devel/bioc-LATEST/gDRcore) |[![](https://bioconductor.org/shields/build/release/bioc/gDRcore.svg)](https://bioconductor.org/checkResults/release/bioc-LATEST/gDRcore) |
 | [_gDRimport_](https://github.com/gdrplatform/gDRimport) | [![](https://bioconductor.org/shields/build/devel/bioc/gDRimport.svg)](https://bioconductor.org/checkResults/devel/bioc-LATEST/gDRimport) |[![](https://bioconductor.org/shields/build/release/bioc/gDRimport.svg)](https://bioconductor.org/checkResults/release/bioc-LATEST/gDRimport) |
 | [_gDR_](https://github.com/gdrplatform/gDR) | [![](https://bioconductor.org/shields/build/devel/bioc/gDR.svg)](https://bioconductor.org/checkResults/devel/bioc-LATEST/gDR) |[![](https://bioconductor.org/shields/build/release/bioc/gDR.svg)](https://bioconductor.org/checkResults/release/bioc-LATEST/gDR) |
+| [_gDRplots_](https://github.com/gdrplatform/gDRplots) | [![](https://bioconductor.org/shields/build/devel/bioc/gDRplots.svg)](https://bioconductor.org/checkResults/devel/bioc-LATEST/gDRplots) |[![](https://bioconductor.org/shields/build/release/bioc/gDRplots.svg)](https://bioconductor.org/checkResults/release/bioc-LATEST/gDRplots) |
